@@ -28,33 +28,27 @@
 
 - [Overview](#overview)
   - [Built With](#built-with)
-    - React
-    - Tailwind
 - [Features](#features)
-  Button component with different states such as colors, variants, disabling etc.
 - [How to use](#how-to-use)
-  Clone the project run npm install and then run the project using npm run dev command.
 - [Contact](#contact)
-  Catch me Twitter <a href="https://x.com/SreeSen03">
 - [Acknowledgements](#acknowledgements)
-  Thanks to myself.
 
 <!-- OVERVIEW -->
 
 ## Overview
 
-![screenshot](![Alt text](./public/app-view.png))
+![screenshot](https://github.com/Sreejit-Sengupto/Button-devChallenges/blob/master/public/app-view.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
-  The project is live @ <a href="https://button-devchallenge.netlify.app/">
+   - The project is live @ [Netlify](https://button-devchallenge.netlify.app/)
 - What was your experience?
-  It was a great learning experience, got to know how UI components are actually built.
+  - It was a great learning experience, got to know how UI components are actually built.
 - What have you learned/improved?
-  Had a good practice session of React.
+  - Had a good practice session of React.
 - Your wisdom? :)
-  The challenge was good enough to stress on the concept of conditional rendering.
+  - The challenge was good enough to stress on the concept of conditional rendering.
 
 ### Built With
 
@@ -94,13 +88,6 @@ $ npm install
 $ npm run dev
 ```
 
-## Acknowledgements
-
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
-
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
 
 ## Contact
 - Hashnode [TechStuff Vlogs](https://sreesen.hashnode.dev)
